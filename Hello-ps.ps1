@@ -1,0 +1,1 @@
+Write-Host "Hej från Powershell - skriptet fungerar"
